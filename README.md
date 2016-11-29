@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+About me
 
 Hello,<br>
 My name is Branimir Jelić. I'm 23 year old programmer, developer from Slavonski Brod, Croatia.<br> 
